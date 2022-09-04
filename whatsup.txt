@@ -4,3 +4,5 @@ Author: Harikrishnan
 3.Last seen code
 4.Attachments(image,audio,video) code
 5.Hiding a last seens
+6.Adding audio call
+7.Adding video call
